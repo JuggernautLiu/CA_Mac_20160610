@@ -12,6 +12,8 @@ namespace CA_Mac_20160610
             System.Console.WriteLine("Hello Mac Jug 2 !!!");
             int i = 0;
             System.Console.WriteLine("i = %d",i);    
+
+            int j = 1;
         }
     }
 }
